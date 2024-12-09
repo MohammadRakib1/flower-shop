@@ -29,11 +29,13 @@ header p {
     border: none;
     border-radius: 8px;
     color: white;
+    cursor: pointer;
 }
 
 .btn-primary:hover {
     background-color: rgb(229, 50, 115);
     color: white;
+    cursor: pointer;
 }
 
 .btn-primary a {
@@ -52,4 +54,58 @@ header p {
 
 .header-img {
     width: 500px;
+}
+
+.text-primary {
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom: 5px;
+}
+
+.our-featured {
+    margin: 150px 150px;
+}
+
+.our-title {
+    text-align: center;
+}
+
+.our-title p {
+    margin-bottom: 48px;
+}
+
+.flower-all-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flower-all-section img {
+    background-color: #A7216226;
+}
+
+.flower-all-section p {
+    text-align: center;
+}
+
+
+.img-flower img {
+    height: 400px;
+    padding: 110px 50px 0px 50px;
+    border-radius: 300px 300px 0px 0px;
+    /* gap: 24px; */
+}
+
+#img-2 {
+    background-color: #0597A026;
+}
+
+#img-3 {
+    background-color: #477D1126;
+}
+
+.flower-name a {
+    color: #272727;
+    font-size: 20px;
+    font-weight: 700;
 }
