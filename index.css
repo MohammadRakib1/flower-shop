@@ -131,16 +131,35 @@ header p {
     justify-content: space-between;
     background-color: #E554730D;
 }
-.hot-deal p{
+
+.hot-deal p {
     margin-bottom: 30px;
     margin-top: 20px;
 }
 
-.hot-deal{
+.hot-deal {
     text-align: center;
     width: 590px;
 }
 
-.text-primary-design{
+.text-primary-design {
     color: #E55473;
+}
+
+.instagram-section {
+    margin: 150px 150px;
+    text-align: center;
+}
+
+.instagram-section p {
+    margin-bottom: 48px;
+}
+
+.instagram-img-flower {
+    display: flex;
+    justify-content: space-between;
+}
+
+.instagram-img-flower img {
+    width: 290px;
 }
