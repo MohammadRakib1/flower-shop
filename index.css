@@ -116,6 +116,7 @@ header p {
     justify-content: space-between;
     padding: 80px 170px;
     background-color: #2727270D;
+    border-radius: 8px;
 }
 
 .delivery-contant {
@@ -168,6 +169,9 @@ header p {
     margin: 150px 150px;
     padding: 100px 250px;
     background-image: url('./Rectangle\ 9.png');
+    background-size: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
     border-radius: 8px;
     align-items: center;
     text-align: center;
@@ -178,4 +182,26 @@ header p {
     border: none;
     margin-right: 10px;
     border-radius: 8px;
+}
+
+.footer {
+    background-color: #111010;
+    padding: 130px 500px;
+    text-align: center;
+}
+
+.footer-second-p {
+    color: #FFFFFFE6;
+    margin-bottom: 24px;
+}
+
+.footer-p {
+    color: #FFFFFF66;
+}
+
+.footer-h2 {
+    font-weight: 800;
+    font-size: 48px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
 }
