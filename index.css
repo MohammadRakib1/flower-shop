@@ -109,3 +109,16 @@ header p {
     font-size: 20px;
     font-weight: 700;
 }
+
+.delivery-time {
+    margin: 150px 150px;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 170px;
+    background-color: #2727270D;
+}
+
+.delivery-contant {
+    align-items: center;
+    text-align: center;
+}
