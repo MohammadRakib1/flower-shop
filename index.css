@@ -163,3 +163,19 @@ header p {
 .instagram-img-flower img {
     width: 290px;
 }
+
+.latest-deals {
+    margin: 150px 150px;
+    padding: 100px 250px;
+    background-image: url('./Rectangle\ 9.png');
+    border-radius: 8px;
+    align-items: center;
+    text-align: center;
+}
+
+.input {
+    padding: 15px 300px 15px 15px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 8px;
+}
