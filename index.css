@@ -122,3 +122,25 @@ header p {
     align-items: center;
     text-align: center;
 }
+
+.hot-deal-section {
+    padding: 50px 200px;
+    margin-bottom: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #E554730D;
+}
+.hot-deal p{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.hot-deal{
+    text-align: center;
+    width: 590px;
+}
+
+.text-primary-design{
+    color: #E55473;
+}
